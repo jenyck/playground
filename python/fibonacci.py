@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 n1 = 1
 n2 = 2
 n3 = 0

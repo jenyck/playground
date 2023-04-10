@@ -1,0 +1,1756 @@
+
+   From: Dark Sorcerer
+   Date: Tue, 20 Feb 2001 17:35:57 -0000
+Subject: Confessions of a C0dez Kid
+
+What seems like a long time period at age thirteen seems 
+significantly shorter when you're over double that age.  With that in 
+mind, the entire "hacker phenomenon" should be viewed as an extreme 
+bit of ephemera, the result of a naive convergence between technology 
+and what can be stereotyped as 1980's teenage angst and rebellion.  
+The "hacker kid" made famous in every 1980's movie became (in a 
+matter that Jean Baudrillard would be proud of) not only a reflection 
+of ourselves, but an ideal we aspired to as well... and was really 
+only a viable archetype for less than ten years.  This should be kept 
+in mind by any third-party who's attempting to put this scene in some 
+sort of historical perspective.  While there might be "hackers" in 
+some sense even in the new millennium, this file specifically relates 
+experiences of those of us who saw John Hughes movies at an actual 
+movie theater back in the 80's.  ("Hackers" generally meaning self-
+described phone phreaks and those who obtained unauthorized access to 
+corporate computer networks, not just people good with computers).
+
+These ramblings were inspired by my recent discovery of some old BBS 
+buffers and text files I had booted up on my old Apple IIe while 
+recently visiting my parents' house.  Luckily (or unluckily) for you, 
+I have a near-photographic memory of all of these events.  (Too bad 
+my post-high school years are rather hazy...) ;)
+
+This surely has thousands of corollaries from around the country.  My 
+question is: where are you all now?
+
+My father had been transferred to Peterson Air Force Base in Colorado 
+Springs, CO at the beginning of the summer in 1986, right during some 
+extreme hormonal changes on my behalf.  I was twelve years old at the 
+time, and had absolutely nothing to do, with no kids in my 
+neighborhood.  In lieu of this, my mother signed me up for a BASIC 
+programming class for "gifted" (or perhaps just geeky) kids at one of 
+the local high schools.  Of course, the class was really more about 
+playing video games and networking with other fledgling geeks than it 
+was about programming.  But the last day of class was devoted to 
+something I'd always been interested in: the modem.  
+
+I'd been fascinated by modems for years and finally my father had 
+purchased a "NetWorker" modem during late 1984 for our Apple IIe, but 
+due to only having one local BBS to our old house in Iowa and my 
+father's unwillingness to pay for CompuServe I had quickly lost 
+interest in it.  To call this modem primitive by today's standards 
+would be an understatement; while it lacked the classic acoustic 
+coupler design (made famous by "WarGames", therefore becoming 
+engrained in the public mind as what a modem looked like) it did not 
+have any sort of auto-connection feature.  This meant that when you 
+dialed in and heard a carrier tone, you had to press a switch 
+exterior to the computer to connect to the desired baud rate (110 or 
+300).  This 300-baud monstrosity was about the cheapest modem on the 
+market, but at $200 (in 1984 dollars) was still relegated to at least 
+middle-class youth and their associated parents.
+
+We briefly touched on the subject of bulletin-board systems (BBSes) 
+and our instructor provided the numbers for a couple of local 
+systems, which I proceeded to call when I got home.  They were fairly 
+typical and boring for the time: systems frequented by off-duty COBOL 
+programmers run on a variety of home-grown systems, perhaps TRS-80's 
+or something running CP/M, exchanging messages on the dry subjects of 
+sports and politics.  However, I did manage to stumble on a list of 
+other local bulletin boards, and of course the ones that intrigued me 
+were ones with the following names:
+
+Valhalla (?)
+Elite Connection 548-9519
+Underground Star 390-0783
+Adventurer's Cove 598-6669
+
+At the time, there was not nearly the stigma associated 
+with "hacking" or piracy in the general computer community that there 
+is now, and there was very little concern about what the "proper" 
+uses of computers were in the general BBS community.  Many people 
+were not even aware they were breaking the law by having pirated 
+software around the house, and software was freely copied at computer 
+users' groups and the like.  Many older BBSers were 60's types with 
+some sort of anti-establishment bent, and even in 1986, you were 
+still considered more than just a little weird if you had anything to 
+do with computers.  Even sysops of "respectable" boards (the ones 
+where old guys talked about politics) might know a bit about making a 
+Blue Box or have a copy of the latest game you wanted.  I would 
+imagine that thousands of other people were therefore exposed to what 
+is now called "computer crime" in such a benign, clueless way.
+
+Calling the aforementioned boards would end up causing a dramatic 
+change in my life, but I had no idea at the time.  The first system I 
+ended up calling was "Valhalla", a "part-time" BBS (the type that was 
+NEVER up during its purported hours of operation, usually run by a 
+junior-high school kid who didn't have the money for his own phone 
+line.)  But on this particular occasion, the board happened to be 
+up.  I dialed in and proceeded to log in as normal; the Sysop 
+(one "Loki Odinsson") ended up breaking into chat mode immediately 
+and offered to verify my access on the spot and call me back voice.  
+He was running a part-time BBS off of a Commodore 64 with one floppy 
+disk drive, and apparently I was his only user thus far along with 
+his best friend, who had chosen the handle "Thor Odinsson".  The 
+details of the conversation are hazy, but I do remember him making 
+allusions to "hacking MCI" and him somehow providing me with a list 
+of long-distance Commodore 64 pirate BBSes, with exotic names 
+like "The Gates Of Hell" and "Underground Empire".
+
+I proceeded to call "The Gates of Hell" next.  (Even the name sounded 
+frightening to a white suburban 12 year old), logged in, and remember 
+navigating through the message boards, where people cursed at each 
+other on "The War Board", engaged in the then-raging Apple II vs. 
+Commodore 64 debate, and wrote stories on the "Sex Board" (I'm sure 
+in retrospect, a bunch of sex stories by what surely were a bunch of 
+15 year old virgins would be highly comical.)
+
+Scared of the phone bill, I logged off after ten minutes, and 
+proceeded to call the other numbers local to me.  The Elite 
+Connection was next, and its new user log in page had tons of scary 
+information about "entrapment" and how each user must provide their 
+actual voice number for verification.  I did as I was told, curious 
+to see if anyone would actually call me.  (No one ever did.)  The 
+message boards on the Elite Connection were filled with vague 
+references about hacking and phreaking, and the system did not seem 
+terribly active.  However, there did seem to be a raging local war 
+between the "Warlock" (the sysop of the Underground Star) and "The 
+Master Kracker", a local Apple pirate, each of which saying they were 
+going to kick each others' asses and the like.  "The Warlock" also 
+seemed to misspell every other word in his posts, for some sort of 
+dramatic effect.  This also seemed to be an extension of the Apple 
+vs. Commodore 64 thing, with the Elite Connection's C64 using 
+sysop "Night Runner" backing The Warlock with Apple II pirate "The 
+Assassin" backing The Master Kracker.  The Apple users were part of 
+some local group called "PPPG" (Pikes' Peak Pirates' Guild.)  The C64 
+vs. Apple thing was very predominant during this time period, and was 
+(IMO) steeped in class conflict.  In retrospect, the C64 was not a 
+bad computer, and had much better graphics/sound and (important for 
+every teenage geek) consequently, video games.  But the Apple was 
+more predominant in upper-middle class America, with all of the 
+logical consequences not worth going into here.
+
+At this point, I was getting tired, so I proceeded to log off and 
+call the Underground Star, which was filled with more of the same 
+sort of thing.  A couple of days later, I called the Elite Connection 
+back, and made a solicitation for anyone who wanted to trade "APPLE 
+GAMES".  I had made posts on BBSes before, but still had no idea how 
+to transfer files over the modem.  When I called back the next day, I 
+had an e-mail from :"The Assassin", whose real name was John, to give 
+him a call at 574-2872.  I gave him a call, and as it turned out he 
+was a sophomore at the same high school I had gotten my introduction 
+to BBSes at.  He was also lacking a 1200 baud modem, which at the 
+time meant being restricted access to all forms of pirate BBSes due 
+to its slow speed.  Being a 300-baud only user in 1986 was the 
+equivalent of being an untouchable in India; you generally only 
+associated with other untouchables and no one wanted much to do with 
+you.
+
+John was friendly and patient with me, and he had many new games that 
+I wanted.  He sent me a copy of "Dalton's Disk Disintegrator" which 
+allowed for the compression of an entire Apple II floppy into one 
+file, and then we did a 300-baud transfer of the Activision 
+game "Hacker", which took about two hours.  If you've never seen text 
+slow by at 300 baud, suffice to say that most college graduates can 
+probably read text faster than 300 baud can scroll by.)  He also sent 
+me a copy of a couple of other programs he seemed very impressed with 
+himself for owning - "Time Bomb" and "Microhacker".  He also made 
+references to "hacking MCI" and I asked him for further 
+clarification.  The clarification went something like this:
+
+"Dial 630-TIME, and start entering codes starting with 10000, 
+followed by a number.  If the number goes through, you have a good 
+code.  If not, redial and start with 10001, etc."  In retrospect, 
+dialing codes incrementally, starting with the same value every time, 
+was incredibly bad advice, although no one ever seemed to get busted 
+by MCI locally.
+
+After we had finally transferred "Hacker" after a couple of abortions 
+and said conversation, "The Assassin" had started to grow a bit 
+impatient with me, probably annoyed by this 12 year old kid who kept 
+asking him what other games he had.  (He proved a bit short with me 
+on  subsequent phone calls to his house.)  However, now I was armed 
+with the knowledge on how to make free phone calls, plus I had a 
+couple of weird-sounding "hacker" programs in the form of Microhacker 
+and Time Bomb.  Microhacker was a tool written by a Denver local to 
+hack "MetroPhone" (I had no idea what that was) which didn't work due 
+to its requiring a modem with autoconnect capabilities, and "Time 
+Bomb" allowed you to format someone's disk after a specified number 
+of boots and display what was invariably a smart-ass message, 
+something that would allow for much jocularity with the kids at 
+school who always wanted to come over and copy games from me.  The 
+Assassin also gave me a copy of Ascii Express, which allowed exchange 
+of files with the Xmodem protocal in addition to being one of the 
+most obscure, hard-to-learn, and powerful terminal programs ever 
+developed.
+
+I decided to call 630-TIME.  I dialed the number, and after several 
+second a weird droney sounding tone greeted me.  I dialed 10000, 
+followed by a random long-distance number in Denver.  The number 
+immediately rang, and a stock corporate-announcer female voice stated 
+that "The access code you have entered is not valid."  This voice was 
+a bit unnerving, so I did not try to "hack" any more codes that 
+night.  
+
+Since I had nothing to do, I started calling the Elite Connection, 
+Underground Star, and several other local boards on an almost daily 
+basis, although I didn't make that many other voice connections due 
+to my owning an Apple II, and most of the bulletin boards local to me 
+were Commodore 64 in nature.  This quickly proved to be boring, as 
+most of the boards didn't get more than a few posts in a day.  As the 
+summer dragged on, I became more impertinent and started to lose fear 
+of "hacking MCI."  Finally, one day the sysop of the Elite 
+Connection, Night Runner,  broke in after I had tried (C)hatting with 
+him.  He also proved to be mostly friendly and offered a "PHREAK 
+CODE" (I was mostly using an old Apple II+ computer, and did not have 
+a lower-case modification key) as well as telling me to call a better 
+board in the Dallas, TX area that was more active and dedicated to 
+hacking, the "Thieve's Underground" (sic.)  In hindsight, he was 
+probably just sick of me calling every single day and tying up his 
+line.  He also offered me access to the "Elite!" (sic) section of his 
+BBS, where people would post information on hacking and phreaking, 
+piracy, and other things.
+
+Somewhat nervous, I called 630-TIME and entered the code Night Runner 
+had offered, followed by the number for the Thieve's Underground.  
+Unlike previous attempts, the number did not immediately ring, but 
+hung there for some time until a remote ring could be heard (we were 
+not even on ESS1A in Colorado Springs at that time, and it sometimes 
+took 20 or more seconds to dial a LOCAL number - we were in Crossbar, 
+with a couple of areas even in Step by Step.  If I had even known 
+about a Blue Box at the time, I could have actually used that instead 
+of these MCI codes). - I then got carrier and proceeded to connect to 
+the Thieve's Underground.  It was definitely the most hardcore BBS I 
+had ever seen at the time, again requiring a "real phone number" for 
+verification and certification that "you are not a member of any law 
+enforcement agency".  Additionally, it required you to define 
+some "hacker terms" which I failed at miserably:  what was COSMOS?  
+What was TELENET?
+
+Needless to say, I was rejected from the Thieve's Underground.  But 
+from that point forward, I was determined to find out what exactly 
+the terms were that I didn't understand.  But of course, I was still 
+concerned with getting all of the new games I didn't have access to 
+and that would only be possible with the fabled 1200 baud modem.  
+
+In the meantime I'd also been granted access on a board 
+called "Skeleton Island" in Richmond, VA, (I believe at 303-747-8920) 
+a board that was a complete throwback to what looked like it must 
+have been about 1982.  The sysop, "The Skeleton", was running custom-
+built software on an Apple II computer with a ten megabyte hard disk, 
+completely devoted to text files!  It was here that I first started 
+reading about the history of hacking, as amongst all of the files 
+there were all-caps transcriptions of old TAP Magazine articles, some 
+of the first things I had read about hacking.  (The board wasn't 
+exactly updated regularly, so what were considered "newer" 
+hack/phreak periodicals such as PHRACK were left out.)  In TAP 
+Magazine's mind, evil was personified in the form of the pre-
+antitrust Bell Corporation, and I read about how Bell harassed its 
+employees as well as phreaks, even driving one to suicide.  I read 
+about how to construct a Blue Box and a Black Box, Cheshire 
+Catalyst's "Hacker's Anthem", and some file called "A Man Called 
+Boris" about a Russian expatriate who was ripping off the Soviet 
+government by thousands of dollars by insuring mail to dissidents, 
+who would be refused delivery, forcing the government to pay up.  
+There was some article on how to coat stamps with Elmer's Glue and 
+reuse them, as well as a huge BBS list from about 1983, and 
+information on removing copywrite protection from games.
+
+It's undoubtedly true that no small amount of kids were influenced by 
+the anti-establishment, libertarian philosophies that permeated these 
+types of boards.  The range of anti-authoritarianism ran the gamut 
+from left-wing socialism to good 'ol boy giving the middle finger to 
+the US government, but libertarianism was the dominant theme.  In 
+addition, it still wasn't *that* risky to engage in hacking and 
+phreaking, so it had the allure of a restricted activity without the 
+risk.  The demographic was pure 1980's - almost strictly white 
+adolescents, with no small amount of passive (or even overt) racism.  
+Certainly, no effort was made to incorporate this raw teenage angst 
+into a more far-reaching critique of power or authority of any sort, 
+but it did make it "OK" to feel pissed off at the world around you.  
+Hackers were basically punks and misfits with computers, and were 
+usually smarter than the rest of their peers.  Being exposed to what 
+seemed like such powerful information did not help many of us adjust 
+to life in the "real world", where you had to learn some sort of 
+bounds of acceptable behavior.  But in the beginning, it was merely 
+benign curiosity about the world that got almost every kid who has a 
+story like this involved with "computer crime", not some sort of 
+malicious intent - that was what always confused the authorities.
+
+I had continued down the boring path of being a 300 baud, mostly 
+local user, calling the same boards too many times, although I did 
+learn how to scan our local Telenet ports for remote systems, 
+although I had little idea how to hack into them (I did obtain access 
+with a couple of typical username/password combinations like 
+JOHN/JOHN and TEST/TEST), completely clueless as to what I was doing, 
+especially with what to do once in the system.
+
+I continued my path in 300-baud loserdom until Christmas of 1986, at 
+which point I received a 1200 baud "Prometheus ProModem" as my 
+Christmas present.  It wasn't the Apple-Cat that I wanted, but to 
+have 1200 baud was incredibly exciting nonetheless.  Now I could 
+actually call "real" BBSes, (most of which would either hang up 
+immediately or echo an insulting message like "Call back when you get 
+a real modem" if attempting to connect at 300 baud).  After some 
+consternation (Ascii Express stopped giving me my "->" prompt I was 
+used to with the new modem, expecting the Hayes "AT" command set 
+instead) with configuration, I proceeded to call "The Roadhouse BBS" 
+in Anaheim, California, which had always refused to let me "Run AE" 
+at 300 baud, but let me in with no problem at 1200 baud.  Now I could 
+get all of the latest games - the first one I downloaded was "Shard 
+of Spring" - and the MCI code I used to call insured that it was all 
+free, free, free.  
+
+This also was my earliest memory of a paranoid way of thinking that I 
+still get tinges of to this day - the feeling that every "kodez kid" 
+had when your phone would ring IMMEDIATELY after you would hang up 
+after calling for free; that sinking feeling that they were "tracing" 
+you that whole time, calling you right back to let you know your 
+number was up!  Even worse, you'd sometimes start thinking that 
+they "traced" you, but you wouldn't know until the police came 
+knocking at your house two weeks later.  There was always an 
+inclination to say that the next time you'd use those damn codes 
+would be the last, at least until you realized how expensive long 
+distance was back then (even night-time rates were often more than 
+$.20 a minute, quite a bit for a 13 year old kid with no job.)  There 
+was really no way to stop once you started.
+
+I wasn't too worried about the codes though - no one else had been 
+busted for using them, although I did receive a scare when someone 
+who said they were from the (FBI?  Mountain Bell?  I can't remember) 
+called my house, saying they were logging all calls to the Elite 
+Connection since so many bootleg phone calls had their destination 
+there, and I was calling it a lot, even though it was local.  I still 
+don't know if this was complete bullshit or not, although that's my 
+inclination with the benefit of hindsight.  At the time though, the 
+person calling did seem "official", and if it was a joke on the part 
+of the Sysop, they didn't make an effort to make it very humorous - 
+surely any good teenager would have punctuated a hoax like that with 
+a bit of humor.  But sadly, even the "FBI" calling my house didn't 
+seem to deter much of the behavior I was going to get involved with 
+over subsequent years.
+
+I was now determined to get involved in the pirate scene, with its 
+promise of unlimited "wares"; games would be available to me right 
+after being released on the market!  One of the first boards I called 
+was the "Trade Center" in New Jersey (201-256-4202), the headquarters 
+of the Apple pirate group "Digital Gang".  Digital Gang, as I 
+remember, was composed of about half absolutely brilliant programmers 
+(one in particular was named Tom E. Hawk, who did extensive 
+modifications to the Dalton's Disk Disintegrator utility) and a 
+couple of locals in 201  named "The Triton" (Eddie) and "High 
+Voltage" (Tony).  The former was rumored to be a high school dropout, 
+who was some fat rich kid who had a lot of money to buy software and 
+run the Trade Center, and "High Voltage" was another 14 year old rich 
+kid who lived nearby.  I knew that I had to get a reference from 
+a "real" pirate board in order to get accepted on other pirate 
+boards - you needed references of other boards you called as well as 
+other "reputable" pirates to get accepted.  I had no idea how to 
+start doing this, but you could send a donation to the Trade Center, 
+which I assumed would get you access.  I sent in a paltry $5 donation 
+and The Triton granted me access to the Trade Center, which gave me a 
+slight bit of clout in the pirate world.  I'd also gotten a lower-
+case modification for my Apple II+, so I could use that computer 
+without that sure sign of rodenthood - having to post in all caps.
+
+With 1200 baud, I immediately started to trade all of the software I 
+could get my hands on.  I quickly left the realm of some of these 714 
+pirate boards I was calling (because they accepted 300 baud users)  
+and started calling some of the "top tier" pirate boards in the 
+country.  Despite an early rejection from Remote Hideout (818-999-
+3680) I was accepted on every other board I called.  There was an 
+awesome board in 213 called the Norse Wanderer that had custom BBS 
+software, and you had to be voted on by other users on the board (the 
+sysop actually let me on without being voted on, one of the 
+early "breaks" I got in the scene.)  There was "The Citadel" at 213-
+493-2011, which was ALWAYS busy but always had the latest wares with 
+no credit system - you could call and leech for hours if you wanted.  
+There was Club Zero in 213 as well, run by Pac-Rat.  The Abyss at 818-
+993-7422 , which I had to call at 300 baud due to its being a "202" 
+only board (202 was the Apple-Cat's proprietary half-duplex 1200 baud 
+standard), but which had some great discussions on religion, 
+politics, and music, which was sysoped by Dark Cavalier (I'd 
+chosen "Dark Sorcerer" as my alias at the time, as it seemed like 
+there were a lot of other "Dark whatever" type aliases, i.e., Dark 
+Prophet, Dark Dante, etc.)  There was Red-Sector-A at 313-591-1024 
+run by the Necromancer (whom a friend of mine and I prank called one 
+time in 1989... sorry Ralph!) and best of all, the Curse at 612-544-
+3980.  The Curse was run by 'The Incognito' and was a message-only 
+board that was very popular.  "The Incognito" had lots of really cool 
+modifications to his board, as he had taken to programming after 
+being busted for credit card fraud (sometime in 1984, I believe - he 
+wrote a text file about it called "The Day The Secret Service Raided 
+My House" or something along those lines, in addition to 
+authoring "How To Spot A Loser On A BBS").  There was an area where 
+you could simulate logging in to vintage-era Apple II pirate boards 
+like the South Pole, the Arabian Dezert, and Sherwood Forest, as well 
+as hack/phreak boards like Plovernet, World of Cryton, and 
+Blottoland.  These boards seemed ancient at the time, but in fact it 
+had really only been 3 years since they had gone down (again, the 
+time-perspective of a 14 year old is very different.  3 years seems 
+like nothing to a post-college grad.)
+
+There was also a blank "graffiti wall" area, which I remember as 
+being the current home of a war between "The Martyr", a pirate from 
+Braintree, MA who ran a board called "Brave New World", and assorted 
+other pirates like Touch Tone and Sorcerer's Apprentice.  I remember 
+anonymous comments like the following: evidently The Martyr said he 
+had some sort of "connections" and was going to fuck up the other 
+members, which solicited comments about The Martyr evidently being in 
+a wheelchair, in addition to being incredibly ugly (Sorcerer's 
+Apprentice said that "I can't wait until your ugly face is in a 34 
+sector BFILE for all us ][ folks out there and a full-blown GIF for 
+the IIGS people").  In what could have been an unrelated incident, 
+Touch Tone made claims to being in the Mafia which elicitied similar 
+sorts of disdain.  It was all highly entertaining.
+
+There were also quite a few "AE" systems still floating around (as 
+well as Cat-Fur systems, which didn't apply to me).  This was simply 
+ASCII Express in remote mode, where you could call a remote system 
+and transfer files back and forth after entering a password.  The 
+most famous of these was probably the Metal AE at 201-879-6668, (pw: 
+KILL)  which to my knowledge was the absolute last surviving such 
+system in the country (the sysop even kept it running on two floppies 
+after his 10 meg drive crashed!)  These systems could be highly 
+entertaining due to their graffiti-wall, free flowing nature.  A 
+typical 10 or 20 meg AE system would probably be 20% software 
+(usually older, but good for picking up some older stuff that you 
+missed earlier on), 20-30% textfiles, and a bunch of blank two-sector 
+text files people would upload with "file names" ragging on other 
+users or sometimes with a really mean or racist content to them 
+(remember, things were much less sensitive 10-15 years ago, and these 
+are pissed off white suburban kids we're talking about.)  The sysop 
+of the Metal AE, Lustfer Death, was also infamous for busting into 
+chat mode unexpectedly and asking questions like "Got any codes" 
+or "Why do you smoke pot"), the latter evidently just for 
+entertainment value.  
+
+The whole pirate scene was entertaining, but lost its lustre pretty 
+fast, even for a video-game crazy 13 year old.  For one, I started 
+realizing that most of these games weren't really that entertaining.  
+Most pirates with talent usually got more into programming, which was 
+somewhat alluring but I didn't have much exposure to it, much less 
+the patience.   Plus, by mid-1987 the number of Apple II games was 
+starting to get slower and slower, and the quality of games was 
+getting less and less, as it became obvious less original development 
+was going on on the Apple, with most of the games being ports from 
+the Commodore 64.  It started to be pretty clear that the Apple II 
+platform (with the exception of the IIGS, which was incredibly 
+expensive and was not Apple Corporation's top priority) was becoming 
+less viable.  In addition, it seemed to start getting more difficult 
+to obtain codes for our local MCI ports, as the whole need for 
+extenders was lessening as "Plus One" service became available.  I 
+started to get interested in the Amiga family of computers, but had 
+to resign myself for having only two Apple II series computers in the 
+meantime.
+
+Then, something happened that changed my point of view to 
+the "computer underground" forever.  Some user had posted regarding a 
+system on the Trade Center called "WizNet" that wasn't just another 
+BBS with a regular dial-up line - it was an entire bootleg BBS that 
+had been set up on a Prime system out on Telenet, and had a chat room 
+in it.  What's more, most of "WizNet"'s users weren't just software 
+pirates who programmed or possibly used phone codes, they were 
+hackers in the true sense, and they seemed to be so much more 
+interesting and mysterious than most of the pirates in the waning 
+Apple II scene.  WizNet (programmed by "The Wizard") would invariably 
+go down a couple of days after it was put up as it would be 
+discovered by an unlucky sysadmin, but it was about the coolest thing 
+I'd witnessed in the computer scenes yet.
+
+At the time, Telenet had just closed a major security flaw which 
+hackers called "pad-to-padding" which allowed you to basically dial 
+in to a Telenet port and connect recursively to another Telenet port, 
+allowing you to"listen in" as a silent guest to whatever the remote 
+user might be doing.  I unfortunately missed the tail-end of this, 
+but it had resulted in a virtual goldmine of network accounts and 
+passwords on Telenet.  There were tons of "NUI's" (Network User 
+ID's)  floating around, a few of which were shared with all of the 
+known world, which allowed connecting to any port on Telenet.  And a 
+few of these ports were called "Altos" and "Altgers", two chat 
+systems in Hamburg, Germany, which were frequented by hackers all 
+over the world and were linked to by WizNet.  These quickly became 
+overrun with morons, but until about the summer of 1988 or so were 
+frequented by all manners of hackers, and at the time, the thought 
+that you were conversing with people via a system on another 
+continent from all around the world seemed like something out of a 
+futuristic cyberpunk novel.  Again, this broke down the conceptions 
+that you'd typically have as a suburban teenager, only confined to 
+the options present at your high school. Suddenly you were talking to 
+hackers like Shatter from the UK, or Logex from Mexico, and you might 
+find out that the Mexican phone switching system is more advanced 
+than the one you're on. 
+
+Hackers tended to be a little more of a snooty, elitist group than 
+the pirates did, and they were more heteregenous in nature.  It was a 
+sport accessible to anyone with a modem and a terminal; you didn't 
+need a high-speed modem or a gazillion meg hard drive to compete, 
+which was natural given my hardware, which was less impressive by the 
+day.  But generally, you had to know your shit, and the learning 
+curve was pretty steep.  It wasn't enough to know how to get _into_ 
+systems, you had to know VAX, Primos, or Unix inside and out to 
+garner any respect.  And no one was really telling you how to get 
+_in_ to these systems to begin with, despite the rash of accounts 
+unearthed by the pad-to-pad phenomenon.  If you wanted to start 
+hacking, you generally had to do three things:
+
+(1)  Find systems to hack.  This was accomplished by scanning Telenet 
+or Tymnet, or by scanning every night for local systems with 
+a "wardialing" utility.  Any major metro area would usually yield a 
+ton of potentially hack-able systems if you wardialed every night.
+(2)  Know what system you were in.  Generally, there were Unix, 
+VAX/VMS, Primos, HP3000, and maybe a few older systems like TOPS-20 
+(which was remarkably hacker-friendly in that it would allow you to 
+view a list of valid usernames without being logged in, necessitating 
+only the guessing of passwords);
+(3)  Know how to get in.  Generally, this was pure trial and error, 
+or you could try "social engineering" (i.e., bullshitting the 
+users).  Mostly, you started with default accounts that you knew 
+would be likely to exist on the system, and tried a bunch of 
+passwords until you'd get in.  Maybe if you were lucky, you'd get an 
+unprotected root password - (yeah, right!).
+(4)  Network with other hackers.  To be fair, there were a lot of 
+hackers that never called BBSes, solitary weirdos of the Kevin 
+Mitnick variety.  (I remember hearing of one legendary hacker 
+named "Sir Qix" during this time as well who supposedly never saw the 
+light of day).  But having friends to talk to and teleconference with 
+every day made things a lot more fun, and at the end of the day, it 
+was mainly a social scene - albeit a strange one.
+
+And the teleconference... this was always one of the highlights of 
+the hack/phreak experience.  If you were diligent, you could find a 
+PBX that would allow calls to Alliance Teleconferencing (0-700-456-
+1000, I believe) which would allow you to talk to over fifty people 
+at once.  Alliance conferences could go on for days and days, usually 
+dwindling to two or three participants in the early morning Pacific 
+time, at which point the usual suspects were waking up during Eastern 
+time, building the conference until it reached a dozen people or so 
+the next evening.  There were always rumors of Alliance bills coming 
+to customers in shoe box sized containers and the like.  Alliance did 
+have one defense mechanism, though; those whose numbers showed up too 
+frequently on fraudulent bills would get "blacklisted", which would 
+result in the entire conference going down.  There were also bridges, 
+which were the equivalent of unofficial "party lines" in the 80's 
+sense of the word.  You'd dial in to a bridge, and talk to whoever 
+had dialed in as well.  I had a couple of decent conversations on 
+these bridges, but usually they'd get taken over by "bridge trolls", 
+usually 13 year olds who would get on and play touch-tone music or 
+something equally as annoying.
+
+But as stated before, it wasn't necessarily easy to get accepted 
+among hackers.  I did have one thing going for me though, and that 
+was that I could write at what seemed to be a much higher level than 
+my actual age.  No one ever seemed to understand how this scene 
+encouraged creativity and intellectual development like none other.  
+Knowledge was a prerequisite for admittance to higher echelons of the 
+hacking circle, as you were generally expected to behave and learn as 
+if you were in the very top of the Bell Curve in terms of IQ.  And 
+the topics of conversation would often extend far beyond computers, 
+reaching into the realms of history, politics, or music (I was first 
+exposed to all matter of punk, new wave, and dance music through 
+people in this scene, many of whom might have lived somewhere cool 
+like New York City or Los Angeles and weren't relegated to the 
+Whitesnake-style crap I had to deal with on the local radio.)  I 
+don't think this drive to increase knowledge was engenederd by any 
+other youth subculture scene before or since - and it is certainly 
+not a byproduct of the American public school system.  You were 
+exposed to youths who were actually reading Nietzsche and 
+understanding it - and solely due to intellectual curiosity, not out 
+of some coffeehouse intellectual pretention.
+
+But of course, being only fourteen years old at the time, my first 
+exposure to this scene was one of dismal failure in terms of 
+acceptance.  I met the sysop of the "Dallas Hack Shack" on WizNet, 
+who let me call his board and granted me access.  Unfortunately, I 
+must have been ferreted out as a newbie, because my subsequent phone 
+calls revealed that my access had been revoked after a single call.  
+However, I'd been rejected from BBSes before and this left me 
+undeterred.  Later on, I remember I was going to be offered an 
+extension into some new group called "xTension", run by a rodent-
+turned-elite named ParMaster.  When asked what my skills were on 
+Altos, I jokingly replied "being elite" which was evidently taken 
+seriously by a humorless "Necrovore", which resulted in me being 
+denied access in to the group.  How the irony of that one escaped 
+him, I never understood.  There was obviously a whole new realm to 
+explore out there, and I was committed to be a part of it.  Armed 
+with my NUI's that everyone else in the world had, I started scanning 
+Telenet intensely, as well as wardialing every night for local 
+systems.  I gained access to numerous Unix, VAX, and Primos systems 
+through binges of all-night scanning and attacking common 
+username/password combinations, which I then shared with others or 
+posted to boards.  I took a keen liking to Primos systems due to 
+their possession of a unique utility - "NETLINK".  NETLINK typically 
+allowed any Prime system on an x25 network to access any other NUA 
+(Network User Address) on the network, so these systems could serve 
+as a launch pad to other systems.  I remember PRIMOS being very 
+difficult to learn, although in retrospect, UNIX is still a lot 
+harder.  "Necrovore" actually wrote an exhaustive compendium of 
+PRIMOS CPL commands, a text file that can be found on 
+www.textfiles.com to this day under the "hack" section.
+
+There was another problem brewing, though.  It seemed as though my 
+local MCI ports, which had been fairly regular sources of free phone 
+calls, were almost completely dry.  No one seemed to be able to get 
+much out of them, and any codes obtained were generally dead within 
+24 hours.  And I had growing reservations about doing the 
+typical "autoscanning" with a modem from my home, due to heightened 
+security in our then-new digital switching system that allowed for 
+easier identification of callers.  Luckily, I'd found a new service 
+(On my own, although there were many others who were already using 
+it) in the form of MidAmerica Communications, or 950-1001, a popular 
+service with Rocky Mountain region phreaks.  The first code I ever 
+tried on this system, 548951, ended up lasting me over three (!) 
+months, and the connections were crystal clear.  But I did take to 
+hacking these codes by hand from my local 7-11's payphone, as all 950 
+calls were free.  And I did find out a couple of years later, when 
+the Secret Service raided my house, that I actually had a DNR (Dialed 
+Number Recorder) on my phone line for a brief period of time before I 
+took to hand-scanning, but I had conveniently stopped scanning at the 
+same time, so my usage was disregarded for some reason.  At the time, 
+it seemed as though many people were starting to see the handwriting 
+on the wall - that Automatic Number Identification and enhanced 
+security features found in the new digital switching systems were 
+eventually going to render hacking and phreaking unviable.  But I 
+knew that was at least a couple of years off, and I hoped that I 
+would be able to have fun at least until my 18th birthday...
+
+I'd managed to hack into at least twenty systems that first summer of 
+1988, and was feeling quite pleased with myself.  I seemed to have a 
+lot of newer on-line friends, although I hadn't met two of the 
+hackers I would end up talking to for hours on end every single day 
+yet.  (If you ever read this, you know who you are).  I was 
+particularly proud of several Unix systems I broke into in Finland, 
+which I accessed with the NUI's I had and just reeked of exotcisim.  
+There also seemed to be a sort of "hacker's revival" movement, as 
+more people were getting involved again after a series of busts that 
+occurred in 1987, the most notable being a 17 year old named "Shadow 
+Hawk", aka Herbert Zinn.  The spearhead of this movement was on a 
+board called the "Phoenix Project" in Austin, TX, run by an extremely 
+knowledgable hacker named The Mentor.  The Mentor, whose real name 
+was Loyd Blankenship, has been forever immortalized as the one who 
+penned the angry "Conscience of a Hacker" (which somehow has made it 
+into academic texts on computer security and hacking) as well as 
+the "Beginner's Guide To Hacking", which no doubt influenced hundreds 
+of ne'er-do-wells to undertake hacking as a hobby.  (He also famously 
+penned the Steve Jackson Cyberpunk game, which resulted in Steve 
+Jackson Games being comically raided by the Feds in early 1990).  The 
+Phoenix Project was about the only place where anyone could get 
+access, and questions could be answered by the cream of the crop 
+members of the hacker community, the Legion of Doom.  I remember one 
+file written by The Prophet which was an introductory text on Unix 
+hacking that was particularly excellent.  There were some new 
+technologies, such as 9600 baud modems, that had allowed users to run 
+bigger, better boards and transfer more data.  This also marked the 
+summer that many people I knew started experimenting with one of the 
+darker sides of the hacking scene, "carding", or credit card fraud.  
+
+"Marijuana is the flame; heroin is the fuse; LSD is the bomb."  -Joe 
+Friday on an LSD scare episode of _Dragnet_
+
+Generally, the hacker's entrance into fraud can be compared to the 
+classic propaganda of marijuana eventually leading to hard drugs and 
+culminating with shooting heroin.  What starts off as benign 
+curiosity, causing a lot of consternation and paranoia, eventually 
+becomes banal, especially in the sped-up, attention-deficit deprived 
+world of the teenage hacker.  If the hacker has no desire to learn 
+about the systems or networks in question, hacking quickly becomes 
+not an end but rather a means to bigger and better thrills.  Most 
+pirates were content to learn about their own computers, dabbling in 
+phone fraud as a means to stay in touch with their cohorts.  Some 
+hackers did draw the line at credit card fraud, merely content to 
+explore the systems they break into.  But many... and they were not 
+statistically insignificant numbers in terms of the whole 
+community... ended up getting bored with breaking into remote 
+computer systems and turned to outright theft for bigger thrills.
+
+Theft had always been a part of the hacking experience, at least in 
+part.  "Dumpster diving" was considered a great way to garner 
+discarded passwords and technical manuals, and there were many of us 
+who broke into our local Bell office in hopes of finding manuals and 
+technical equipment.  "Tapping cans" was also popular - you could 
+find those big round "cans" on telephone poles and monitor phone 
+calls with a phone and a $5 visit to Radio Shack.  But the temptation 
+to engage in outright fraud was definitely engaged in to no small 
+degree, spurred on by the ridiculously easy availabilty of credit 
+card numbers.  Most Americans seemed unaware that during this time 
+period, anyone who needed to check your credit rating (say, the used 
+car dealership where you placed a benign inquiry about a purchase 
+last week) could do so through an account with TRW or CBI.  TRW 
+seemed to be the de facto standard for hackers in the early to mid 
+1980's, but it seemed to have been supplanted by CBI in the later 
+1980's.  Some enterprising hacker had actually figured out the number 
+seed for the generation of CBI accounts, which effectively had opened 
+up every CBI account in the country for potential abuse.  (This also 
+happened with ITT calling cards on the infamous 950-0488 extension 
+and American Express credit cards during the late 1980's.  It makes 
+you wonder if companies have taken to more sophisticated number 
+generation schema in the new millennium.)  
+
+But at any rate, credit card numbers ran like water, and if you had a 
+modicum of clout in the scene (hacking CBI was only marginally harder 
+than hacking "codez") you could feasibly pull the credit card history 
+of anyone you didn't like, especially your high school English 
+teacher that was pissing you off and giving you a hard time.  And it 
+seemed like for a while, EVERYONE was carding everything under the 
+sun.  There was some kid named Lord Zeus who had at least a dozen US 
+Robotics HST modems, valued at $500 a pop.  Unsurprisingly, a lot of 
+the hackers in New York City I knew, including one "The Guardian" who 
+ran an Amiga pirate board called FBI BBS, were carding entire 
+computer systems.  There were reports of kids getting busted and 
+having tens of thousands of dollars in stolen hardware in the closet 
+of their houses, with their parents blissfully unaware of what was 
+going on. 
+
+Because carding did seem so easy, most people did take at least one 
+crack at it.  Generally, the myth on the street was that if you don't 
+get too greedy, and don't use the same drop address more than once, 
+you could get away with it forever.   But even in my increasingly 
+warped mind, it still seemed a bit hard to justify, so I just stopped 
+trying to justify it.   I succeeded in carding a $600 1.5 megabyte 
+RAM upgrade for the Commodore Amiga (I was the proud new owner of an 
+Amiga 500 computer, and RAM was ridiculously high during this period 
+due to a fire at a semiconductor plant in Japan) from some company in 
+California, which had eventually brought down some heat on my 
+neighborhood, in addition to some clothes from Eddie Bauer and some 
+jewelry.   In retrospect, I believe this was the start of my 
+incurring some seriously bad karma, which eventually culminated in my 
+arrest which was to occur only about a year and a half later.  
+However, the feeling of getting away with something like that - a 
+true high-tech crime - was incredibly thrilling for a young teenager 
+still in Junior High school.  Mostly, credit card numbers were just 
+fun to have lying around, and could be a source of endless amusement.
+
+Case in point: party lines and phone sex lines.  Phone sex lines, in 
+this age of virginity, were not taken seriously at all, but what 
+better fun than to call an 800 sex line with someone else's credit 
+card and harass the poor woman on the other end?  And how about 
+putting the local Pizza Hut on a three-way call with some woman 
+you've just requested to simulate giving a blow job?  At a friend's 
+request, I left the number of a mutual acquaintance who had been 
+pissing us off lately on a gay phone sex line, which resulted in him 
+getting dozens of solicitations for gay phone sex over a several day 
+period.  And everyone I knew in the scene was doing all of these 
+things as a matter of course.  That wasn't even the start of the 
+possible revenge that could be extracted by a knowledgable hacker: 
+some of the elite had access to local LMOS systems, and were able to 
+forward phone calls from whatever source they wanted to your line if 
+you pissed them off bad enough.  Hackers with LMOS access were able 
+to turn on the call waiting on the phone line of some sysop they 
+didn't like, making his board disrupted every time someone else tried 
+calling in.  One hacker we knew, "Fry Guy", made a bet that he could 
+make a payphone local to my friend's house into a regular phone 
+(i.e., not needing a quarter to dial out) and succeeded in doing it 
+within several days.  I'm sure there were no small number of public 
+high school teachers that ended up getting a dozen toilet seats in 
+the mail from Sears after failing a certain apathetic computer 
+enthusiast in one of their classes.  
+
+There were kids who were engaged in outright ripoffs and serious 
+fraud - kids that inspired serious investigation from the likes of 
+the FBI and Secret Service.  The most intense example I remember is a 
+Florida hacker named "Maximum Overdrive" who had succeeded in his 
+local Western Union to the tune of at least fifty thousand dollars.  
+Not only could he get the credit card numbers of the people whom he 
+was wiring "from", when Western Union decided to verify by calling 
+their home address he could forward the victim's number to one he 
+specified and pretend to be the person wiring the money.  It was 
+during this stage in my hacking career when I believe my head started 
+to get a little concerned again.  I was starting to have ethical 
+issues with the wholesale rip-off of corporations.  Even though I 
+already had an inkling of the American corporate power structure and 
+how the "insurance companies just pay for it all", I was still not 
+comfortable associating with individuals who seemed to have little 
+desire other than to scam as much free money and computer hardware as 
+they could possibly get.  This sets the stage for what Lord Digital 
+was talking about in his sequel to "Fall Of The Modem World" - the 
+stage when the power you have starts to get out of hand.  When you're 
+engaging in high-tech grand larceny as a fifteen or sixteen year old, 
+you don't learn the boundaries that other kids your age have to 
+learn.  You just blow through every barrier that's presented to you 
+and when that's coupled with fragile adolescent egos, some serious 
+emotional and mental maladjustment can be the result.
+
+There was another hacker called the "Video Vindicator" that I also 
+talked with a few times (we'd struck up a mutual interest in 
+electronic music - I remember him playing the old techno 
+track "Spice" by Eon to me over the telephone.)  The Video Vindicator 
+was an admitted techno-vandal, who liked to crash every system that 
+he broke into.  He ran a pretty good board in Northern California 
+called the "Shadows Of Iga" and was by all accounts, an extremely 
+intelligent kid.  But the last I heard of him, he got out of 
+California Youth Authority at age 19, stole a car, managed to evade 
+jail at least once, and was living "on the run", writing text files 
+about how to fence stole jewelry, break into houses, and the like.  I 
+had the typical angst-ridden teenage experiences shoplifting and 
+engaging in burglarly and generally did not like them - I didn't seem 
+to have the stomach or nerve to engage in serious crime, but in the 
+adrenaline and testosterone-riddled time, it was easy to see how 
+people were getting pressured into doing more extreme acts by the 
+day.  These were kids who knew how to encrypt stolen credit cards - 
+straight up Cyberpunk Mafia type of shit.  These were kids writing 
+programs that would decipher the mathematical algorithms that 
+corporations would use to generate credit card and calling card 
+numbers, just for fun.  
+
+It seemed like the scene was starting to get a bit sketchier all 
+around.  In addition to knowing aforementioned fledgling Mafia 
+members, it seemed like all sorts of people were getting busted for 
+carding and phone fraud.  A local user to me had gotten busted by 950-
+1001, a fate that only escaped me because of my temporary moratorium 
+I'd placed on scanning for phone codes from my house.  I'd ended up 
+taking all of my notes and disks with sensitive information on them 
+over to a friend's house, afraid that I was the next one.  But of 
+course it never came, and another vow to stop what I was doing was 
+left unfulfilled.  At the end of the day, I was at a point where the 
+scene had consumed my life and none of us could do _anything_ else.  
+Fledgling interests in sports and academics had long been discarded 
+in favor of complete devotion to the hacker subculture, and I had 
+little desire to go back.  I was branded as the classic "bright but 
+an underachiever" role in school, something I knew that all of my 
+peers had also experienced.  Everything in my life now embraced this 
+one-dimensional anti-authoritarian view, but despite my best 
+intentions, everything always seemed to confirm the worst of what I 
+had suspected.  Kids at my school were generally mean, and I had 
+already witnessed all of the typical detritus of the suburban 
+wasteland I lived in; parties where there were gang-bangs, 15 year 
+old kids smoking weed, drinking Old Milwaukee, and sniffing cocaine.  
+It didn't offer much appeal. But it didn't matter, because in this 
+scene, you truly had a purpose and you truly were someone important.  
+And it wasn't related to ANYTHING that was going on in the real 
+world.  You just couldn't expect anyone to go back to the "real 
+world" after being a member of the hacker subculture.  It seemed like 
+you were a member of this secret fraternity, with all of the power 
+(at least in your own mind) and crazy aliases and code words out of 
+what seemed like a comic book adventure.  
+
+"I'm not crazy, you're the one that's crazy..." -Suicidal Tendencies 
+in "Institutionalized"
+
+As one could imagine, most hackers didn't exactly have the most 
+fulfilling home and personal lives, and I was no exception.  I was 
+threatened at home with being sent to a Christian school if I didn't 
+clean up my act, which never materialized into anything but empty 
+threats, but I felt constantly at odds with my parents, who felt like 
+I was slipping into some sort of weird drugged Satanic cult or 
+something, perhaps due to the long hair and obscure musical taste I'd 
+cultivated.   Nothing could have been further from the truth; I was 
+actually ridiculously drug-free, having only been drunk one time in 
+my life.  I had no desire to smoke weed or get drunk like a lot of 
+the other kids I knew at school were doing.   I was mostly angry, and 
+most of my non-computer time consisted of listening to the likes of 
+Black Flag or Minor Threat.  
+
+Adults might have wanted you to just get your head out of your ass, 
+but everything in your life reinforced the following 
+associations: "Real World" = boring, angry, stupid, and 
+pointless.  "Hacker World" = happy, fun, exciting, where your friends 
+were.  School was something to be slept through if you actually had 
+no choice but to go, which would then be followed by another night of 
+all-night teleconferences and the latest scene gossip.  Most 
+importantly, it was FUN.  You knew you were doing things that no one 
+else knew how to do.  And you were learning more every day.  I spent 
+endless hours on the phone every day.  (What's up Data Wizard, Blue 
+Adept, and PhaZeTech Crew, if you ever read this...) ;)
+
+However, the handwriting on the wall seemed to be getting more and 
+more pronounced.  It had started to become pretty obvious to those in 
+the know that it wasn't really safe to scan or use stolen calling 
+card numbers from your house at all anymore, as people seemed to be 
+going down for that left and right.  (Getting busted for phone codes 
+is a notoriously lame thing to get caught for anyway.)  Like it or 
+not, even the "elite" hackers who disdained the "kodez kidz" needed 
+to make free phone calls.  New technologies like ANI and Caller ID 
+threatened to make the activities of wardialing and scanning, long 
+staples of the hacking scene, obsolete overnight.  (A hacker named 
+Lorax and his brother in Michigan had gotten nailed simply for 
+scanning the 800 prefix for carrier, along with them stupidly leaving 
+a message for the owner of a hacked HP3000 to "please give us a call 
+if you want help with your security.  He called them, all 
+right)  ;)   
+
+It was clear that the whole scene had been based on this ephemeral 
+convergence of (1) naive computer security; (2) the availability of 
+telecommunications equipment on the mass market and (3) a very 
+libertarian culture of computer users who disliked governments and 
+regulations of any sort.  It was no longer acceptable to talk about 
+pirated software on most BBSes like it had been during the nascent 
+scene in the early 1980's period.  But I was still having a good 
+time, and was starting to get to the point where I was a pretty good 
+hacker.  I had probably only cracked into fifty systems in my life, 
+but had learned quite a bit doing it.   And the vague group I knew, 
+PhaZeTech, had a system called "Colonial" that was essentially taken 
+over by the group, which served as a fertile Unix learning ground.  
+(Perhaps the system administrators viewed us as sort of a helpful ant 
+colony and never kicked us off, as we ended up doing a bit to 
+maintain the system.)   There was no reason to think it would stop 
+anytime in the near future, as I'd stopped scanning for codes from my 
+house some time in the past.
+
+But then another "convergence" came back to kick my ass.  I'd 
+recently been sent an Apple Cat modem by a user named "Zippo Pinhead" 
+on the good-faith notion I'd pay him $30 for it, which I never did.  
+(I really _did_ mean to, Bob, but I was a broke-ass 16 year old and 
+just never got around to it, and you didn't really seem to care 
+anyway.)  I'd always wanted the legendary Apple-Cat, due to its 
+ability to mimic any tone, as well as scan for codes at least twice 
+as fast as any Hayes modem.  The temptation to let it scan for codes 
+was just too much, and in addition, the bad karma from not paying for 
+it was also a factor.  Despite my better judgment, I was starting to 
+get REALLY sloppy.
+
+My sloppiness ended up being epitomized by another really stupid-ass 
+mistake; leaving my real name and phone number on a board in Arizona 
+called "The Dark Side" run by a user named "The Dictator" who as it 
+turned out was running a sting operation for the Secret Service in 
+exchange for some computer hardware.  (To this date, I hope "The 
+Dictator" is burning in hell, and I hope your life is a complete 
+piece of shit, you traitorous loser.  How "cool" is that Amiga 
+hardware you got now, seeing as how you exchanged  your soul for it, 
+motherfucker?)  But anyway... I'd seen "The Dictator" around, as he 
+was calling virtually every board in existence and advertising his 
+system, so I blindly left my number on his system.  Naturally, I was 
+immediately corroborated with the "Dark Sorcerer" who'd been seen 
+around, probably posting some hacked VAX (incidentally, John Lee, 
+aka "Corrupt", ruined a hacked VAX I posted at 215 379, pw 
+BACKUP/BACKUP, that I had gotten into by trying to run some BBS on 
+it, and this guy ended up on the cover of Wired Magazine.  Weird when 
+people you knew threw the scene started becoming minor cause celebres 
+in the nascent wannabe-Cyberpunk type scene.)  This resulted in a DNR 
+(Dialed Number Recorder) placed on my line around December of 1989, 
+and of course I was using my new Apple-Cat to scan for codes during 
+that time.  I could kick myself for days just thinking about how 
+stupid all of this was.
+
+The climax came on January 11, 1990, when two of the following showed 
+up at my house: Secret Service agents, local cops, and US West phone 
+security guys.  And right before my parents were going to church for 
+their bell choir practice.  Ugh.  Not exactly my finest hour.  And 
+yes kids, they do play "good cop, bad cop" just like in the movies.  
+It was somewhat comical, but I felt proud that at least I didn't 
+start bawling or narcing out everyone I had ever known, as a lot of 
+others were prone to do (guess my nerves had been toughened up 
+somewhat.)  The charges against me ended up being somewhat 
+impressive, as I'd been using multiple 950 services (ooops) all of 
+which were small companies anxious to prosecute me, in addition to 
+having some floppies on them with about seven hundred credit cards in 
+the form of CBI buffers (double ooops) as well as suspicion I'd been 
+involved in a couple of local credit-card shenanigans (which never 
+materialized into real charges.)  To make matters worse, they wanted 
+to confiscate the Apple computer, which I had actually done all of 
+the scanning on, which my little sister was currently writing a huge 
+paper on.  We had to convince them to take my Amiga instead.  I ended 
+up having to go down to the police station, taking a mug shot just 
+like any other criminal, and spending a couple of nights in the 
+Zebulon Pike Youth Detention Facility, shooting hoops and wondering 
+what was going to happen to me.
+
+The end result:  Most of the charges got dropped, and I had to do 
+fifty hours' community service, as well as pay about $3500 in 
+restituion.  Luckily, I ended up doing my "community service" for my 
+youth minister, an ex-rock and roller who took pride in the fact that 
+he just let me read all of the books in his office (my first exposure 
+to Hunter S. Thompson, by the way.)  It was a small compensation, but 
+at least I didn't have to load furniture at Goodwill every weekend 
+for two months like a lot of other people I knew who got in 
+trouble.   
+And my probation officer thought I was the greatest novelty - here he 
+was dealing with kids who were stealing cars and selling weed, and he 
+gets this gangly "hacker" out of nowhere.
+
+I was pretty much out of the scene immediately, sans a few friends.  
+But it didn't much matter, as the scene was quickly coming to an end 
+anyway.  The "Operation Sun Devil" busts in early-mid 1990 
+effectively killed off the vestiges of the 1980's hacker scene, as 
+most of the "elite" members of the Legion of Doom and MOD had been 
+snared in this raid.  Probably almost half of the people I had known 
+had gotten busted, had retired, or were simply getting older, getting 
+cars and going to college.  There I was, sixteen years old, yet the 
+disappointment was something to this day I feel like only extremely 
+old people feel; like how it must feel when half of your friends are 
+dead.  I did manage to pull off a few shenanigans after getting my 
+computer back  (my ever-unaware parents let me continue to use the 
+computer periodically, for "school work" of course).  I hacked into 
+our local Water Supply Department VAX and gave away the account some 
+time later, which strangely resulted in an article in the local paper 
+a month later about how the Water Supply Department needed a new 
+computer, with my account that had been active forever strangely 
+cancelled... ;) (to this date, I have no idea if someone I gave it 
+out to on the "Magnetic Page" BBS crashed this or something.)  I got 
+the occasional Alliance call from some old people I knew, and I 
+quickly found I had little in common with most of them.  It seemed 
+like most were either drifting off into computer-science major 
+irrelevance, or were still able to pull off some capers due to non-
+busted status.  But no one seemed to be quite as crazy as they were 
+even a year ago, as security was getting better and better 
+and "hacking" was starting to just mean hacking voice mail systems.  
+(Although the Tymnet heyday was still to come.  Does anyone else 
+remember that cheezy chat system "QSD"?)  ;)
+
+Computers seemed to lose their lustre.  All of a sudden I had to be 
+normal, go to parties and try to fit in somwhat.  The disappointment 
+at not being a part of the scene any more was quite a bit to bear.  I 
+still had some calling cards, CBI accounts, and a few token relics of 
+the hacker era in order to amuse my "real world" friends, mostly.  
+But by and large, everything was gone.  Before I knew it, a lot of 
+the people I had known were in college, and some of them had dropped 
+out to become professional programmers at age 19 or so, already 
+knowing way more than most of their professors.  After a year or so 
+of re-adjustment, I attained some sort of normalcy.  I used LSD 
+extensively, and later Ecstasy and ketamine.  Drugs were sort of an 
+effort to get that "peak feeling" that I used to get, and were 
+incredibly entertaining and insightful, although they lacked the long-
+term intellectual stimulation that computers were able to provide, 
+eventually becoming somewhat banal in their own right.  But that, as 
+they say, is a different story. :)
+
+This brings me to the end of this file: if you made it this far, how 
+come?  And where are the rest of the people I used to know in that 
+scene now?  All grown up, I'd imagine.  The ones who didn't get 
+busted probably got their PhD's and didn't stray too far from the 
+Republican Party.  But the ones who were a little more worldly, what 
+happened?  Was it a period of intense self-scrutiny, reading 
+thousands of books, spending endless hours of self-reflection... and 
+was intellectual curiosity what that scene was all about?  
+ CYBER THRASH
+
+     Eleven o'clock Saturday night, and I was headed for the DMZ 
+again. I had a feeling the Big Kahuna would be there--and that 
+he'd know what the hell was going on with the Cardboard Box.  I 
+sure didn't, and it was making me nervous.
+     
+     On the TV set outside my dim Brooklyn bedroom, the Cold War 
+was ending.  Furious Czechs gathered in plazas, East Germans ogled 
+West Berlin shop windows--great infotainment, if you like rubble.  
+I was after a different story.  No broken bricks, no raging 
+crowds, just phantom signals playing hide-and-seek through a 
+fiber-optic maze that slithered across the world.  On the TV 
+screen the present was crumbling into the past.  On my computer 
+screen a future was taking shape, and the Big Kahuna was somewhere 
+inside it.
+     
+     Amber glow brightened the room as I fired up my bargain-
+basement IBM clone and dialed into Telenet.  The modem shrieked 
+and crackled and suddenly I was in, gliding down the Main Street 
+of the world's computer networks.  I typed in a series of numbers 
+charging the call to a hulking defense contractor in the Midwest, 
+then I entered the 12-digit network-user address that routed my 
+connection across the Atlantic to a PC in France.
+     
+     The cursor sat panting for a moment, then slid across the 
+screen, spelling out the welcome logo: bid block letters D, M, and 
+Z.  I entered a handle and dropped on in.  It was the usual scene.  
+A chat system capable of taking 25 callers at once, the DMZ was a 
+hangout for hackers and phone phreaks from all over the world.  A 
+list of their handles glowed out at me from my monitor, silent and 
+serene, but behind it a phreak/hack Casbah seethed.  All those 
+handles were passing private messages back and forth, cutting 
+deals, trading the short-lived codes, passwords, and other 
+fetichized bits of information that are the illegal tender of the 
+hacker economy.
+     
+     But I wasn't here to cop.  I was here to find the Big Kahuna, 
+and he was nowhere in sight.  The list of handles glowed on, 
+losing or adding a name now and then.
+     
+     There was nothing to do but wait.
+     
+     In France?  Wait in France for a kid who lived an area code 
+away from me?  Things had gotten weird so fast I'd barely noticed.
+     
+     In the beginning it was all as simple as a headline:  On 
+October 4, 1989, Grumman Aerospace Corporation, a key supplier of 
+combat aircraft to the Pentagon, sent police to arrest a 15-year-
+old boy for slipping into the Vax mainframe at Grumman's Long 
+Island plant from his bedroom in Levittown, New York.
+     
+     It wasn't much.  Just another hacker story in a year bursting 
+with them.  The biggest was on its way to court:  Robert T. Morris 
+Jr., who had loosed a worm into the defense department's national 
+research network, unintentionally paralyzing over 6000 computers, 
+faced five years and a $250,000 fine.  Earlier in the year a 
+federal judge had sentenced 18-year-old Herbert Zinn Jr., a/k/a 
+"Shadow Hawk," to nine months in prison plus a $10,000 fine and 
+two and a half years' probation for sneaking into phone company 
+systems and copying "higly sensitive" software.  On the book-tour 
+circuit, computer-security hero Clifford Stoll was out plugging 
+The Cuckoo's Egg, his nonfiction account of KGB-backed West German 
+hackers snooping for secrets in American networks.
+     
+     Nineteen eighty-nine was shaping up into the year of the 
+hacker, and I wanted a piece of it the way some people wanted a 
+piece of the Berlin wall.  I'd been getting more obsessed with 
+computers every day since I bought my PC, and more fed up with 
+writing record reviews.  As things went, the Grumman bust was 
+small potatoes, but by the conventions of the emerging media 
+subgenre of the hacker story, it had the earmarks of a minor 
+classic--crime, punishment, feds, teenager, suburbia.  I wanted to 
+write it.
+     
+     Looking for dirt, I opened up the latest issue of 2600, "The 
+Hacker Quarterly," a Long Ilsand based 'zine.  It was filled with 
+how-to briefs, updates on worldwide hacker feats and busts, and a 
+tough, political-minded defense of hacking and its constant 
+companion, phone phreaking (the high0tech defrauding of Ma Bell).  
+No mention of Grumman, though.
+     
+     But hidden among all the other goodies was a list of computer 
+bulletin boards (or BBSs) loosely affiliated with the magazine.  I 
+switched on the PC, called one of the numbers--a Westchester 
+exchange--and browsed a bit.
+     
+     I'd been riding the tri-state boards for over a year, and at 
+first i didn't see anything so different about this one.  There 
+was the usual pile of messages, friendly exchanges  and occasional 
+swipes, points of information and wisecracks.  Subjects ranged from 
+politics and music to personal computer tech--with discussions of 
+hacking and phreaking.  But as the posted messages scrolled up my 
+screen I could see that the tone here was unusual in the generally 
+conservative world of BBSs.  Talk was looser here, more anarchic, 
+and people used handles instead of real names and actually swore 
+without fear of getting booted by the folks who ran the board, 
+the sysops (system operators).  there was a muted festivity to the 
+place, as if somewhere nearby, maybe in a back room no one would 
+tell me about, one motherfucker of a party was going on.
+     
+     But there was nothing on the Grumman bust, so I scrolled 
+through the section devoted to hyping other BBSs.  there wore some 
+well-pitched appeals for calls, but the ad that caught my eye 
+only needed its Long Island area code to bait the hook:
+
+89Jul20 from the Wintermute @ YOYODYNE 
+Call:  The Cardboard Box.  516-742-0801
+
+My computer dialed the number, the modem connected, and then 
+suddenly I was facing the heaviest dose of paranoia I'd ever 
+encountered on a board.  The BBS program asked for my handle (Dr. 
+Bombay) and then slapped me with a questionnaire asking me to (a) 
+declare that I was not an employee of any long-distance phone 
+company or any local, state, or federal lay enforcement agency, 
+(b) identify a series of cryptic technical terms and acronyms, and 
+(c) leave a note to the sysop, Wintermute, and his cosysops the 
+X25 Warrior and the Big Kahuna, describing some of my hacking 
+exploits.  I passed the first part with flying colors, bullshitted 
+my way miserably through the second, and confessed in the third 
+that my greatest exploit was subscribing to 2600.  So much for 
+that board.  After that performance they'd never let me in.  I was 
+back to square one.
+     
+     A few days later I checked the board to see whether I'd been 
+validated.  I keyed through the login procedure and waited for the 
+brush-off.  It didn't come--I'd been granted full access.  I was 
+in.
+     
+     I cut straight to the message base and worked my way down the 
+menu.  The e-mail section was unreadable, nothing but private 
+messages.  The PHREAKING section was full of phone company techno-
+lore and strange tales of making pay phones do things they weren't 
+designed to.  In HACKING the messages listed phone numbers and 
+passwords for all kinds of computers--university, corporate, NASA.  
+PIRATES LAIR was the "wares" section, a place to trade illegally 
+copied commercial software.  In CARDING there were messages on how 
+to scam other people's credit card numbers and use them safely.  
+The more I read, the wider my eyes bugged.  Whoever these people 
+were--the Signal Jockey, Dan Hackroyd, Exile--they were hard core.
+     
+     I shook the amazement and headed for the HACKING NEWS/BUSTS 
+section.  A good idea:  the second message that scrolled up 
+brought the news of the Grumman bust to the board, and in the 
+third Wintermute dropped the bomb that the unnamed minor in the 
+papers, on TV, on the radio, was most likely A-TNT, until recently 
+a regular at the Box.  With this the conversation quickly heated 
+up.  How could they be sure it was him?  Would he narc?  Would 
+they bust the board?  As the days and messages scrolled by, 
+though, it became clear that the board was safe, and the questions 
+grew more philosophical.  For instance:  was A-TNT, or was he not, 
+a lamer?
+     
+     Lameness, it seemed, was the ultimate sin around here, and 
+not everybody was sure A-TNT was guilty.
+     
+     "He wasn't such a bad guy" wrote the Mecanic."It's too bad."
+     "People get busted because they get lazy," Mirage suggested.
+     
+     But the Watchman wasn't going for it: "Lazy...lame...I don't 
+see much difference.  If you make a mistake you're lame. So we're 
+all lame to an extent...but, whether your're the eLiTeSt hacker or 
+the lowliest kOdez dOOd, it takes a BIG fuck-up to get busted."
+     
+     Whatever A-TNT was, though, he sure wasn't the whiz kid the 
+media was calling him.  "Shit, he was asking ME for help," cracked 
+the Mechanic, "so you KNOW he wasn't no genius." But what else was 
+new?  The media got it wrong again.  Pretty soon the little lamer 
+would be on "Geraldo," repenting of his evil ways, frightening the 
+old folks with tales of sneaker-worshipping skinhead hacker cults.
+     
+     "Why is it when you see a computer user on TV it is always 
+some total fucking modem GEEK?" asked the Watchman, clearly pissed 
+off.  "Why don't they show computer users like us, chugging Buds 
+and dragging on Marlboro 100s in our Megadeth t-shirts and hacking 
+kool shit?"
+     
+     I was starting to wonder myself.  The moment I dropped in 
+here I knew I had found that back-room party at last.  These 
+people were having the times of their adolescent lives, and they 
+were doing it with enough style and attitude to qualify for full-
+fledged MTV-sanctioned youth subculture status.  All right, so 
+maybe A-TNT wasn't a lamer, but who wanted to read another 
+morality play about a computer delinquent scared straight by a 
+brush with the law?  The real story was still on the loose and I 
+was staring right at it.
+     
+     The only problem was that a mountatin of hacker paranoia was 
+standing between me and the story.  There are good reasons trust 
+is such a hard-won and fragile commodity down in the computer 
+underground.  Since the breezy "War Games" days of the early '80s, 
+the federal and state governments have criminalized the shit out 
+of hacking--by last year every state but pinko Vermont had passed 
+laws against computer trespassing and "theft" and the federal 
+Computer Fraud and Abuse Act of 1986 had made hacking punishable 
+by anywhere from one year to 20.
+     
+     After a brief period of relative impunity, hackers were 
+beginning to go to jail.  That kind of atmosphere tightens 
+definitions of common sense.  On boards around the country, the 
+elite hacker group Legion of Doom was circulating a novice's guide 
+that warned against leaving your real phone number on any BBS("no 
+matter how k-rad it seems")or sharing real-life information with 
+any one you didn't know too well.
+     
+     "Don't be afraid to be paranoid," the guide concluded.  
+"Remember, you *are* breaking the law.  It doesn't hurt to store 
+everything encrypted on your hard disk, or keep your notes buried 
+in the backyard or in the trunk of your car.  You may feel a 
+little funny, but you'll feel a lot funnier when you meet Bruno, 
+your transvestite cellmate who axed his family to death."
+     
+     Still, I got the feeling that even if the dangers didn't 
+exist at all hackers would have to invent some.  The main thrill 
+of the hack may indeed be, as the LOD intro insists, "the pursuit 
+and capture of knowledge," but paranoia is at least part of the 
+kick.  As the pop culture industry is quick to recognize (see 
+horror-writer Chet Day's new book The Hacker for a deliciously 
+schlocky tale of an elite hacker board infiltrated not by the feds 
+but by a terrorizig demon handled "The Succubus"), the technology 
+just lends itself to cloak-and-dagger drama.
+     
+     So it wouldn't do for me to start asking pesky-reporter 
+questions.  If I spooked the phreak/hackers who populated the place 
+they might scatter, leaving the blood of a dead BBS on my hands.  
+I decided to approach the sysops instead.  On my computer I 
+carefully composed a text-file suggesting we meet and explaining 
+my intentions and my sympathy towards hackers.  Then I called the 
+Box, uploaded the text to Wintermute in the private file-transfer 
+section, logged off, and crossed my fingers.
+     
+     I called back the next day, adrenalin rushing as soon as I 
+saw that I had private mail from the sysops.  But it was only a 
+message achnowledging that they'd received the file.  I called 
+back again the following day.  No answer.  I called later in the 
+week.  Still nothing.
+     
+     My nerves were frazzling, but at least the waiting gave me 
+time to browse the message bases and get a better picture of the 
+board.  Slowly I began to figure out what any seasoned member of 
+the computer underground would have sussed at first glance:  the 
+Cardboard Box was a hack/phreak board, dedicated primarily to the 
+mutual education of its members in the arts of second-story 
+telecommunications.  According to Northern Illinois University 
+criminologist Gordon Meyer (I downloaded his masters thesis from 
+the Box's database), there are roughly a hundred such boards in 
+existence, varying widely in quality (the wares boards, where 
+uploading and downloading pirated software is the main activity, 
+outnumber the h/p's by about 20 to 1).
+     
+     I also got to know the players.  There was the Fone Ranger 
+who called in regularly from Chicago to rant about the lameness of 
+"warez dOOdz".  There were one or two other out-of-staters, and 
+occasionally someone would drop in from England or Switzerland.  
+The rest of the 20 or so regulars were spread out between Long 
+Island and far Manhattan--not a huge area, but diverse.  When 
+Exile, and inner-city caller of color, referred to A-TNT with the 
+generic "nigga," he got back a clueless response from the 'burban 
+Big Kahuna to the effect that the kid didn't appear to be black in 
+any of the pictures he'd seen.  In the obligatory MUSIC section, 
+similar culture clashes flared and fizzled--the Mechanic, calling 
+from the heart of the Boogie Down Bronx, went toe-to-toe with the 
+metalheads and prog-rockers for a while in fuck-you defenses of 
+hip hop, house, and reggae.  Then he gave up in a confession of 
+secret love for Genesis and Phil Collins.
+     
+     I was learning all kinds of things.  Except why the sysops 
+weren't responding to my letter.  A week had passed since I 
+uploaded it.  I called again, planning to leave a another anxious, 
+nudgy message.  Instead, there it was.  Contact.
+
+FROM:  WINTERMUTE
+TO:  DR. BOMBAY
+SUBJECT:  ARTICLE...
+A REPLY TO #284
+______________________
+UMM...Well...OK I might be able to 
+manage me X25 Warrior and Big Kahuna
+meeting you (sorry we cant give out 
+addresses or phone #s)...I have a few 
+conditions...dont put any real handles or
+board names...also...I would appreciate it
+if you would say clearly that hackers don't
+destroy anything on a system, they just
+want to learn how to use it...also...A
+contribution to the BBS for a 38,000 BAUD
+modem would be appreciated!
+
+     I didn't kick my heels because there wasn't enough room under 
+my desk.  I just sent Wintermute a message saying I didn't think 
+SPIN would cough up modem money but the other conditions would be 
+no problem.
+     
+     After all, why not help clean up the hackers' public image? 
+It was sad but true enough that the "threat" of computer viruses 
+has obsessed the media, which had in general been too lazy to find 
+out that in the hack/phreak community planting a destructive virus 
+was something you might do to a rival bulletin board but never to 
+a hacked system.  And why wouldn't the media call bullshit on 
+corporate claims of huge losses to the computer underground?  The 
+software industries were claiming they lost billion of dollars 
+every year to piracy.  The phone companies claimed a million a day 
+bled to phreaking.  No one ever pointed out that they were talking 
+about "theft" of goods that didn't disappear from the shelves when 
+stolen and would not have been used anyway if they had to be paid 
+for.  Information technology had a tendency to make us information 
+peddlers--journalists like me--look stupid, and it was hardly fair 
+that hackers suffered for our lameness.
+     
+     So sure, I would gladly do what I could to make amends, I 
+told wintermute--as long as we could meet and talk.  "Just give me 
+a time and place." I said.
+     
+     Another long week passed.  Finally I got this message:
+
+FROM:  WINTERMUTE
+TO:  DR. BOMBAY
+SUBJECT:  ARTICLE...
+A REPLY TO #339
+_____________________
+I am having problems...Nobody wants to meet you, they thing you 
+are gonna appear with a dozen cops or something...
+
+For Christ's sake.  I sighed and typed out a reply.
+
+FROM:  DR. BOMBAY
+TO:  WINTERMUTE
+SUBJECT:  ARTICLE...
+A REPLY TO #341
+____________________
+What would it take to convince you I'm not a 
+narc?  What do you want?  My American 
+Express card number so you guys can fuck
+my life up if I double cross you?  I don't 
+know.  This is a little depressing.  I mean.  I 
+only have about half a story if I can't meet 
+with anybody.  What would it take?
+
+The next day's e-mail brought this:
+
+FROM:  WINTERMUTE
+TO:  DR. BOMBAY
+SUBJECT:  ARTICLE
+A REPLY TO #348
+___________________
+Well...if we wanted yur AMEX# we would
+have it already...As soon as I talk to 
+Kahuna we will call you and see what
+happens...
+
+The bravado was gangster-movie perfect.  I had to laugh.
+     
+     But nobody called.  After a couple days I logged onto the Box 
+again and got a message from Big Kahuna asking for my social 
+security number.  I thought about it:  I'd already given them my 
+real name and real phone number.  What more could they do with the 
+SS#?  I typed it in.  Then I downloaded some bedtime reading from 
+the board's library of text-files and logged off.
+     
+     I could have picked better bedtime reading.  The file I'd 
+leeched turned out to contain two brief Newsweek articles by a 
+reporter named Richard Sandza.  The first recounted his undercover 
+adventures as "Montana Wildhack" on hack/phreak boards around the 
+country.  The second described the hacker response to the first 
+story after it appeared:  Sandza was vilified throughout the 
+hacker world, inundated with crank calls, and found his credit 
+history fucked with and his card numbers posted all over the BBS 
+nation.  Not a soothing tale.  I managed to convince myself that 
+the reason he had caught so much hell was that he had used real 
+board names and handles.  Even so, there was no telling what might 
+piss off some small group of hackers somewhere and set me up for 
+the same bitch of a time.  I went to sleep sorry I'd given up my 
+social security number.
+     
+     For days later I called the board.  E-mail: the Big Kahuna 
+had discovered my address.  Big deal.  They already had my name 
+and phone number; they could have gotten the address out of the 
+phone book.  I dashed off a quick dis and moved on to the next 
+letter waiting for me.  It went a little something like this:
+
+FROM:  WINTERMUTE
+TO:  DR. BOMBAY
+SUBJECT:  CHECK THIS SHIT OUT
+____________________
+Y365-PROCEED
+NM-DIBBELL, JULIAN
+
+*DIBBELL,JULIAN SINCE 11/15/88
+*FAD 11/8/89 FN-302 TAPE RPTD 11/88
+*SUM-08/88-10/89,PR/01-NO,FB-NO,
+ACCTS:2,HC$0-470,2-ONES.
+*BUS/ID CODE RPTD OPND H/C TRMS BAL
+P/D RT 30/60/90 MR DLA/ACCOUNT NO
+01*9060N259 10/89 08/88 470 470 01 00
+00 00 01 3719355233500
+02 1*9060N259 09/89 10/88 0 0 01 00 00 
+00 10 3712389469900
+END OF REPORT
+
+     My mouth flapped open.  It was brief and pathetic, but it was 
+my credit history, and my American Express card numbers gleamed in 
+its midst like a pair of hot rhinestones.  This should only have 
+intensified my fears of a few nights earlier, but all I felt was a 
+mixture of astonishment and admiration.
+     
+     My hands groped to the keyboard to enter a reply.  I didn't
+know what to say.  Suddely the cursor jumped out of my control and 
+started spelling:
+
+Hey doc, it said
+     
+     In a bedroom or a basement somewhere in the 516 area, 
+Wintermute had broken into chat mode.  I typed back:
+
+-HI.  That is sum impressive stuff.
+-Hey.  It is no big shit...dont worry I wont post yur card #s all 
+over the place...
+
+     We got to talking.
+-Uh, u mind my asking how old u are?
+-Why u wanna know!
+-Just being a reporter
+-Well...should I make the story dramatic and say I am 11 or should 
+I tell you my real age?
+-The truth would be fine
+-Oh.  well...I just turned 15 in September
+
+Fifteen.  Jesus.
+-How bout the other sysops?
+-Well X25 Warrior is 14 and Big Kahuna is
+16-17 (I realy dont know)
+-u guys ever meet in person?
+-Yeah...me and the Warrior hang out all
+the time.  As for Kahuna, we've never met
+-U never met him and you let him run the 
+board with you?  how can you trust him?
+-I trust him more that I trust you, I can tell
+you that...
+
+     But kept talking.  He told me hacking was fun and I should 
+try it. He gave me the numbers of some hacked-out systems to call.  
+Theis all took a long time.  The cursor crawled across and down 
+the screen like a maddeningly slo-mo game of Centipede.  Two 
+hours later my eyes were bloodshot rheumy puddles from staring at 
+the monitor and the conversation was ending on a sour note.  My 
+questions had gotten too personal and Wintermute suddenly wanted 
+every detail worth printing off the record.  As we said goodbye 
+and signed off I thought it might be the last time I heard from 
+him. I could see the whole story disappearing back into the 
+electronic depths it had emerged from.
+     
+     I turned off the computer and shuffled out of my bedroom in a 
+daze.  On the TV in the kitchen Ted Koppel was announcing the fall 
+of the Berlin Wall.  Right now it was history, but in a few weeks
+big fat AT&T, every phreak/hacker's favorite long distance 
+company, would be using this same footage in ad-spots, as if it 
+had been some basic human urge to telecommunicate that had smashed 
+the wall.  They weren't entirely wrong.  People were fighting for 
+a number of things in Eastern Europe, but would anyone deny that 
+the free circulation of news, stock market prices and music videos 
+were high on the list?
+     
+     On the TV in the kitchen the nuclear age was completing its 
+transition to the information age.  War, peace, commerce, fun--
+none of these would be the same anymore.  It was still possible of 
+course that the new age would turn out to be just a digital 
+remastering of the old one.  We would measure the new stockpiles 
+in megabytes rather than megatons, but they'd be stockpiles 
+nonetheless--endless lists of data, names and numbers and the 
+power that goes with them.  Still, as long as three teenagers on a 
+telecomm joyride could pick the corporate lock on those lists, 
+there was a chance things might be different this time around.  I 
+might never speak to Wintermute again.  But it was reassuring to 
+know he was out there.
+
+     Wintermute didn't disappear.  In a few days he and the Big 
+Kahuna and the X25 Warrior started conference-calling my 
+apartment. I was never home when they called--I'd get in and find 
+a series of extended messages on my machine, three high-keyed 
+adolescent boy voices cracking jokes, chattering among themselves, 
+laughing uncontrollably and making rude comments on my taste in 
+outgoing-message music.  It was like the Beastie Boys had taken 
+over my answering machine.
+     
+     Finally they left a number I could call and leave a voice-
+message at.  They had pirated a voice mail-box.  VMBs are those 
+automated answering-machine systems you get nowadays when you call 
+big firms, and it turns out they are eminently hackable:  find an
+unused box in the system, hack out its password, and it's yours 
+(most phreak/hackers use them as safe places to trade phone 
+codes)--untis somebody at the office discovers your coup and kills 
+the box.
+     
+     The boys' VMB was still good.  I left a time they could 
+definitely get hold of me.  They called back.  We talked for two 
+hours.  I was full of questions:
+
+Like, what was the point?  What did you do once you got inside a 
+forbidden computer?
+
+     Well first of all you didn't destroy anything.  That was rule 
+number one.  But that left a lot of room.  You cold take a look 
+at some pretty interesting things (the boys claimed that on a NASA 
+computer once they found a report about a fatal crash that never 
+made it to the press).  You could also use come systems as 
+gateways to networks brimming with other computers.  You could 
+even set up a hidden, parasite BBS.  The Mechanic, they told me, 
+was in the process of doing just that on a Vax he'd hacked down in 
+New Jersey.  But all these things merely iced the cake.  The big 
+challenge was getting in.  "Once you're in," said the Kahuna, "its 
+like, 'Ho-hum. That was fun.  What now?'"
+     
+     And what were the easiest systems and networks to hack into?
+     
+     Well, Arpanet, the defense department's research network, was 
+certainly one of them.  Then there were the credit report 
+companies--CBI, TRW.  There were three good ways to get passwords 
+for their computers.  One was to go "trashing," picking around in 
+the garbage of a credit-database client to see what carelessly 
+discarded printouts might reveal.  Another was "social 
+engineering"--calling up database-users and putting on your best 
+grown-up vice to bullshit a password out of them.  If neither of 
+these suited your style, you could always just trade for the 
+passwords with whatever cool shit you might have--a pile of codes, 
+some VMBs.
+     
+     And what about the stereotypes of hackers?  Were they math 
+prodigies?
+     
+     No, not really.  The Kahuna sucked at math in fact, did much 
+better in English.  And none of the three knew much about 
+programming.  Knowing how to program would help, of course, and the 
+most elite hackers knew at least one programming language, but it 
+wasn't necessary--hacking wasn't a system of rules, it was a 
+craft.
+     
+     Well, were they loners then?  Troubled kids?
+     
+     Loners, no--they all had plenty of friends, Kahuna went to 
+parties on the weekends, played a lot of pick-up football.  But 
+troubled?  Well, they were teenagers.  "All my friends are 
+troubled," said the Warrior, "and most of them don't know anything 
+about computers."
+     
+     The boys were sharp.  They were funny and in a gruff teen-boy 
+way they were friendly too.  I liked them and I looked forward to 
+their phone calls, which began coming fairly regularly after the 
+first contact.  I remained uneasy though.  Every time I pushed for 
+a face-to-face meeting they would cagily put me off.  My deadline 
+loomed and I still hadn't clinched the story.
+     
+     I never even occurred to me that they might know the story 
+better than I did, but they did, and they'd been feeding it to me 
+in little doses all along, a code here, a password there.  The sly 
+little bastards were trying to show me how easy it was to get 
+hooked on hacking, and they were doing a pretty dood job.  The 
+rush I got when I first called the DMZ (called fucking France! and 
+didn't pay a penny!) kept me coming back for more.  And when I 
+slipped into the Mechanic's Jersey Vax, my first actual illegal 
+entry, I suddenly had a glimpse of what it was all about.  These 
+were low-grade borrowed buzzes, sub-warez dOOd activity, but they 
+were heady enough that I finally understood Wintermute's 
+uncharacteristically rapturous declarations that he would never 
+give up hacking as long as he live.
+     
+     But I still had to meet the boys.
+
+     Then one week they didn't call.  Caught up in other 
+assignments, I didn't have time to drop by the Box, But the 
+silence was making me jittery.  I was jonesing for the 
+underground.  I couldn't hurt, I decided at the end of the week, 
+to give the board a quick call and see what was up.  I switched on 
+the computer and dialed up the Cardboard Box.  There was no 
+answer.  That wasn't good.  If the hard disk on Wintermutes 
+computer had failed, it could be hours before he got the board 
+back up.  When I called later that night the board was still down.  
+Fuck!  Well, it would be up the next day.
+     
+     But the next day there was still no answer from the Cardboard 
+Box.  I was really uptight now.  The boys' VMB had died and I 
+still didn't know any of their home phone numbers.  The story was 
+disappearing again.  There was only one way left to get in touch 
+with them.  It was a long shot, but fuck it, at least it would 
+give me some kind of hacker-world fix.
+     
+     So there I was, eleven o'clock Saturday night, back in the 
+DMZ again.  I'd bumped into the Big Kahuna there a couple of times 
+before.  Maybe he'd be there tonight.  The list of handles was 
+long, but no Big Kahuna.  There was nothing to do but wait.
+     
+     Which wasn't so bad.  The DMZ was a fun place to hang out.  
+You just sat there and people sent you messages.  Occasionally you 
+got a racy one from one of the gay French locals who seemed to be 
+drawn to the DMZ by its high teenage testosterone count.  No doubt 
+they presence flustered the hackers, who in general liked a fag 
+joke as much as the next American adolescent, but the hackers' own
+approaches didn't seem a lot less prurient sometimes.  "Got any 
+codes?" was the standard opening line.  It could spark a nice 
+conversation, but as often as not it led straight to quick and 
+dirty exchange of digits.
+     
+     There was a lot of codes-cruising going on that night.  I was 
+having a hard time keeping up since I didn't have any to offer.  
+Finally I decided to just go ahead and identify myself as a 
+reporter and see what happened.  The results were good:  within 10 
+minutes I was carrying on two full-blown conversations at the same 
+time.  One was with Gestapo, a 16-year-old New Age anarchist 
+Dokken fan from Phoenix.  The other was with a guy whose handle 
+identified him as the sysop of the DMZ, said he was a 28-year-old 
+French based U S Air Force lieutenant colonel who'd been running 
+the system out of his house for two years.
+     
+     Identity here was even more fluid that on regular boards, 
+since you could log on with any handle you felt like, and even 
+change your handle as often as you cared to within a single 
+session.  I was logged on as "Scrump" at the moment.  Last session 
+I was "Scratch."  Before that I was "Richard Marx."
+     
+     Scrump was getting sleepy.  I was sending farewell messages 
+to Gestapo and the sysop when a message came through from someone 
+tagged Internet, and plainly identified as calling from the USA:
+     Hell-o.
+     HI, I typed.Where u calling from?
+     The USA, came the reply.
+     Great.  More paranoia.  Well, this would take care of 
+Internet:  UH huh.  Well dont mind the questions.  It's my job.  
+I'm a reporter for SPIN magazine.
+
+     The reply took a little while to get back to me:
+
+-Dr Bombay?
+-Big Kahuna????
+-OH...No this is Wintermute.  Hi
+-OH HI, man.  Sorry I've been out of touch for so long...
+-Well, its no problem.  But you missed it...big shit at the Signal 
+Jock's house with Grumman security...
+
+     The news was bad.  Sort of.  Grumman security had traced the 
+Signal Jockey and a number of other local hackers trying to log 
+onto the same Grumman Vax that had been A-TNT's undoing.  And now 
+were making house calls in the company of Nassau County police 
+officers and an unidentified guy with "fed" written all over him.  
+They didn't have a lot on the Signal Jockey so it didn't look like 
+they were going to press charges, but the story didn't end there.  
+The jock's mom knew the Big Kahuna's mom and told her about the 
+visit.  After that it didn't take long for Mr. and Mrs. Kahuna to 
+figure out why their son had been spending so much time with his 
+computer, and boy were they pissed.  They took away his modem and 
+grounded him for a year.
+     
+     It got worse.  One of the kids Grumman had swooped down on 
+was cosysop for Quiet Riot, a board in the neighboring 718 area.  
+Right away the other sysops pulled the BBS down, and Wintermute, 
+scared shitless Grumman would be coming for him next, took the 
+hint. He wiped all the BBS files off the hard disc and retired the 
+board indefinitely.
+
+The Cardboard Box was dead.
+
+     In the week that followed Bush met Gorbachev at Malta, and the 
+boys agreed to meet me in Manhattan.
+     
+     It was a strange and beautiful world.  The military-industrial 
+complex had succeeded in killing the Cardboard Box, but there was
+suddenly a good chance it wouldn't survive the century itself.  
+The postwar national security state was scrambling to find a new 
+rationale for its undercover shenanigans, but hackers were already 
+living in a world in which covert action was nothing more that a 
+game children played.  The future was rushing towards us faster 
+than the past could get out of the way.
+     
+     Appropriately enough, the boys and I agreed to rendezvous in 
+front of a science-fiction bookstore we all knew.  The Kahuna 
+wouldn't make it of course.  He was still under house arrest.
+     
+     There was some doubt about how we'd recognize each other, but 
+when the time came I spotted them before I'd gotten within two 
+blocks of the bookstore:  two sweetfaced, slightly chubby generic 
+white teens, working hard at looking inconspicuous.  One of them 
+looked like he had a couple of growth spurts to go.  Both of them 
+had their hands deep in the pockets of clothes that looked like 
+last year's Christmas presents.  I sidled up and muttered, "Got 
+any codes?"  The boys laughed, and we all tried to quickly get 
+over the weirdness of having faces stuck to our names.  The short 
+one was the X25 Warrior, the taller blond kid was Wintermute.
+     
+     I took them to lunch.  The Warrior got a cheeseburger; 
+Wintermute ordered ribs and insisted on Pepsi over Coke.  They 
+cracked jokes with the waitress, awkward and wise-assed at the 
+same time.  We talked about how they got into hacking, about the 
+superiority of their k-rad Amigas to my boring IBM, about the Big 
+Kahuna's bad luck.  We talked about the Cardboard Box.  Neither of 
+them seemed too sorry it was down.  It had been going for over a
+year, a ripe old age for a hack/phreak board.  And with the modem 
+freed up Wintermute could do more of his own hacking now, spending 
+hours scanning out entire 800-number exchanges, shit like that.
+     
+     After lunch we walked around.  We looked in computer-store 
+windows.  We dropped by a magazine shop that sold 2600.  I bought 
+two copies for some friends, the Warrior bought one for himself, 
+and Wintermute shoplifted another.
+     
+     It was getting late, I'd have to head home soon.  "OK," said 
+Wintermute, "but first you have to do something for us."
+     
+     "Whatever," I said.
+     
+     "Well, OK.  Well we'll give you the money, but um..."--his 
+feet shuffled nervously--"OK, can you buy us a copy of Playboy?  
+The one with Kimberly Conrad on the cover?"  The Warrior Giggled.
+     
+     We went to three different newsstands looking for that issue, 
+but none of them had it yet.  Finally the boys decided they would 
+settle for a quart of Foster's.  I'd never bought alcohol for the 
+underaged before, and certainly never dreamed the first minors I 
+did it for would be capable of altering my credit history, but I 
+didn't blink.  They waited outside the store while I made the buy.
+     
+     When I came out we opened the can right there on the street 
+and headed for the subway swigging.  We were all grinning like 
+idiots.
+     
+     At the subway entrance I turned and said goodbye, and the 
+boys walked off.  They were going to catch a movie maybe, they 
+didn't know.  I watched as they made their way past a nearby 
+newsstand.  No Kimberly Conrad, but lots of headlines that 
+supposedly added up to the end of history.
+     
+     From where I stood it looked like the beginning.  New 
+struggles were brewing.  Information capital was accumulating like 
+crazy, and the gap between the info-haves and the info-have-nots 
+was gaping wider all the time.  Sooner or later it would come down 
+to a fight, and whether they knew it or not, kids like the Big 
+Kahuna, the X25 Warrior and Wintermute were among the first people 
+to be on the right side.
+     
+     I saw Wintermute take one last gulp of beer.  Then the boys 
+disappeared into the city crowds.
