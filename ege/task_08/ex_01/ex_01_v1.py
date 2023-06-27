@@ -2,8 +2,8 @@
 from itertools import product
 
 count = 0
-for char_tuple in product('ЛЕТО', repeat=4):
-    s = ''.join(char_tuple)
+for x in product('ЛЕТО', repeat=4):
+    s = ''.join(x)
     if s[0] in 'ЛТ':
         count += 1
 

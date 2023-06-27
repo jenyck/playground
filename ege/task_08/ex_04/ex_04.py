@@ -2,8 +2,8 @@
 from itertools import product
 
 count = 0
-for char_tuple in product('ЖИРАФ', repeat=5):
-    s = ''.join(char_tuple)
+for x in product('ЖИРАФ', repeat=5):
+    s = ''.join(x)
     if s.count('Ж') == 1 and s[0] != 'Ф' and s[-1] != 'Р':
         count += 1
 
