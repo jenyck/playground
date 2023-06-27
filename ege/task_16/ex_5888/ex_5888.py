@@ -16,4 +16,3 @@ for i in range(5000):
     a.append(f2(i))
 
 print(a[4952] + 2*a[4958] + a[4964])
-
