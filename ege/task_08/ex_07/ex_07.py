@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from itertools import permutations 
+from itertools import permutations
 
 count = 0
 unnecessary = ['ОУ', 'УО', 'КЛ', 'ЛК', 'КН', 'НК', 'ЛН', 'НЛ']

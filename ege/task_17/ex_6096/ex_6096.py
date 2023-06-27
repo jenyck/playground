@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # read input
-with open('17-362.txt', 'r') as file1:
+with open('17-362.txt', encoding='ascii') as file1:
     l = [list(i.strip()) for i in file1]
 
 # translate letters to decimal numbers

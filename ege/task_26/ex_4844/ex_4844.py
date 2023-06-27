@@ -2,7 +2,7 @@
 import math
 
 danger_list = []
-with open('26-68.txt', 'r') as file1:
+with open('26-68.txt', encoding='utf-8') as file1:
     n, t = map(int, file1.readline().split())
     for i in range(n):
         danger_list.append(tuple(map(int, file1.readline().split())))

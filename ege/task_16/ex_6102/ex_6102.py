@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from functools import *
+from functools import lru_cache
 
 @lru_cache(maxsize=None)
 def f1(n):
